@@ -12,24 +12,27 @@ TEST DATA 2: Marks weights 95 kg and is 1.88 m tall. John weights 85 kg and is 1
 
 GOOD LUCK 😀
 */
-let MS = 95;
-let HM = 1.88;
-let mJohn = 85;
-let hJohn = 1.76;
+let massMark = 78;
+let heightMark = 1.69;
+let massJohn = 92;
+let heightJohn = 1.95;
 
 
-let BMark = MS / HM ** 2;
-let BJohn = mJohn / (hJohn * hJohn);
-let HigherBMI = BMark > BJohn;
 
-console.log(BMark, BJohn, HigherBMI);
+let BMIMark = massMark / heightMark ** 2;
+let BMIJohn = massJohn / (heightJohn * heightJohn);
+let markHigherBMI = BMIMark > BMIJohn;
 
- MS = 78;
- HM = 1.69;
- mJohn = 92;
- hJohn = 1.95;
+console.log(BMIMark, BMIJohn, markHigherBMI);
 
- BMark = MS / HM ** 2;
- BJohn = mJohn / (hJohn * hJohn);
- HigherBMI = BMark > BJohn;
- console.log(BMark, BJohn, HigherBMI);
+ massMark = 95;
+ heightMark = 1.88;
+ massJohn = 85;
+ heightJohn = 1.76;
+
+
+ BMIMark = massMark / heightMark ** 2;
+ BMIJohn = massJohn / (heightJohn * heightJohn);
+ markHigherBMI = BMIMark > BMIJohn;
+
+console.log(BMIMark, BMIJohn, markHigherBMI);
