@@ -49,4 +49,4 @@
 
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
 
-![Certificate](https://www.udemy.com/certificate/UC-16a1cacf-940c-46d0-b50a-6fdabdeb0a29/)
+![Certificate]([https://www.udemy.com/certificate/UC-16a1cacf-940c-46d0-b50a-6fdabdeb0a29/](https://www.udemy.com/certificate/UC-16a1cacf-940c-46d0-b50a-6fdabdeb0a29/))
