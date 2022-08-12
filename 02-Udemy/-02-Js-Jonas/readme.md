@@ -38,13 +38,6 @@
 
 - [Project-code](./Projects/Forkify)
 - [Live Demo]()
-
----
-
-## Code
-
-[Code](Code)
-
 ---
 
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
