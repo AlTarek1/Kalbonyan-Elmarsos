@@ -17,22 +17,22 @@
 ### Pig Game
 
 - [Project-code](./Projects/Pig-Game)
-- [Live Demo]()
+- [Live Demo](https://pgamealtarek.netlify.app/)
 
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
-- [Live Demo]()
+- [Live Demo](https://bankist-altarek.netlify.app/)
 
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
-- [Live Demo]()
+- [Live Demo](https://mapty-altarek.netlify.app/)
 
 ### Forkify
 
 - [Project-code](./Projects/Forkify)
-- [Live Demo]()
+- [Live Demo](https://forkify-altarek.netlify.app/)
 ---
 
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
