@@ -24,11 +24,6 @@
 - [Project-code](./Projects/Bankist)
 - [Live Demo]()
 
-### Bankist Site
-
-- [Project-code](./Projects/Bankist-Site)
-- [Live Demo]()
-
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
