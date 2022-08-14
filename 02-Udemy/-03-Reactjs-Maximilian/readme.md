@@ -121,12 +121,6 @@
 
 ---
 
-## Code
-
-[code](Code)
-
----
-
 [Course-Link](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)<br>
 
 [Certificate](https://www.udemy.com/certificate/UC-258547bd-8adb-40ea-aca4-f415ea0eb079/)
