@@ -10,7 +10,7 @@
 
   <br/>
 
-- [Section 3 Project Live Demo]()
+- [Section 3 Project Live Demo](https://react-7e66d.firebaseapp.com/)
 - [Section 4 Project Live Demo]()
 - [Section 5 Project Live Demo]()
 
