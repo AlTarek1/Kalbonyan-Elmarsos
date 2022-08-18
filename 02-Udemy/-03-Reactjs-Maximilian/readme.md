@@ -27,7 +27,7 @@
 ### Section 8-9 Project
 
 - [Project-code](./Projects/section-8-9-project)
-- [Live Demo](sec9-74386.firebaseapp.com)
+- [Live Demo](https://sec9-74386.firebaseapp.com/)
 
 ### Login-app (S10)
 
