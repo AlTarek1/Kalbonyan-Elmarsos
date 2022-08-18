@@ -22,7 +22,7 @@
 <br/>
 
 - [Section 6 Project Live Demo](https://sec6-969b7.firebaseapp.com/)
-- [Section 7 Project Live Demo]()
+- [Section 7 Project Live Demo](https://sec7-5f8f0.firebaseapp.com/)
 
 ### Section 8-9 Project
 
