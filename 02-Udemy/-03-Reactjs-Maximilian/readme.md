@@ -67,7 +67,7 @@
 ### Order-food App (S17)
 
 - [Project Code](./Projects/order-food-app/S17-project/)
-- [Final Project Live Live Demo]()
+- [Final Project Live Live Demo](https://sec17-270a4.firebaseapp.com/)
 
 ### Redux Counter(S18)
 
