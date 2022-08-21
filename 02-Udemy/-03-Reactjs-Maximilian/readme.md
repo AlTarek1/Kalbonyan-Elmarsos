@@ -72,7 +72,7 @@
 ### Redux Counter(S18)
 
 - [Project-code](./Projects/redux-counter)
-- [Live Demo]()
+- [Live Demo](https://sec18-3b3ca.firebaseapp.com/)
 
 ### Redux Cart(S19)
 
