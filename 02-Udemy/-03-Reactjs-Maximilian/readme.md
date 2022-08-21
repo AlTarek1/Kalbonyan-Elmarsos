@@ -92,7 +92,7 @@
 ### Meetsup app(S23)
 
 - [Project-code](./Projects/meetsup-app)
-- [Live Demo]()
+- [Live Demo](https://sec23-react-new-vkk2.vercel.app/)
 
 ### Animation-app (S24)
 
