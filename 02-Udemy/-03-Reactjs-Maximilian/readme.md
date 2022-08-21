@@ -82,7 +82,7 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo]()
+- [Live Demo](https://sec20-da795.firebaseapp.com/quotes)
 
 ### Authentication-page(S22)
 
