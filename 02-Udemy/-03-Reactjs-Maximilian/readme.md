@@ -112,7 +112,7 @@
 ### ingredients-app(S28)
 
 - [Project-code](./Projects/ingredients-app/)
-- [Live Demo]()
+- [Live Demo](https://sec28-12069.firebaseapp.com/)
 
 ### Section 29 Project
 
