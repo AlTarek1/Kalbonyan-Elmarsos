@@ -102,7 +102,7 @@
 ### Products-app(S25)
 
 - [Project-code](./Projects/Products-app)
-- [Live Demo]()
+- [Live Demo](https://sec23-dd6d1.firebaseapp.com/favorites)
 
 ### todo-app-TS(S27)
 
