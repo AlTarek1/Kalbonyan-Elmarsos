@@ -4,7 +4,7 @@
 ## Project
 [code](Serverless-project)
 
-## Demo
+## Demo (CloudFront URL)
 [code](https://d1ujwi0dkfbmo5.cloudfront.net)
 <br>
 ## Screenshots
