@@ -16,23 +16,23 @@
 
 ### Pig Game
 
-- [Project-code](./Projects/Pig-Game)
-- [Live Demo](https://pgamealtarek.netlify.app/)
+- [x] [Project-code](./Projects/Pig-Game)
+- [x] [Live Demo](https://pgamealtarek.netlify.app/)
 
 ### Bankist
 
-- [Project-code](./Projects/Bankist)
-- [Live Demo](https://bankist-altarek.netlify.app/)
+- [x] [Project-code](./Projects/Bankist)
+- [x] [Live Demo](https://bankist-altarek.netlify.app/)
 
 ### Mapty
 
-- [Project-code](./Projects/Mapty)
-- [Live Demo](https://mapty-altarek.netlify.app/)
+- [x]  [Project-code](./Projects/Mapty)
+- [x] [Live Demo](https://mapty-altarek.netlify.app/)
 
 ### Forkify
 
-- [Project-code](./Projects/Forkify)
-- [Live Demo](https://forkify-altarek.netlify.app/)
+- [x] [Project-code](./Projects/Forkify)
+- [x] [Live Demo](https://forkify-altarek.netlify.app/)
 ---
 
 [Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
