@@ -2,15 +2,15 @@
 ## Projects
 
 ### Notes App
-- [Project-code](./Projects/Notes-App)
+- [x] [Project-code](./Projects/Notes-App)
 ### Task Manager API
-- [Project-code](./Projects/Task-Manager-API)
+- [x] [Project-code](./Projects/Task-Manager-API)
 ### Weather App
-- [Project-code](./Projects/Weather-App)
-- [Live Demo](https://weatheryouseft.herokuapp.com/)
+- [x] [Project-code](./Projects/Weather-App)
+- [x] [Live Demo](https://weatheryouseft.herokuapp.com/)
 ### Chat App
-- [Project-code](./Projects/Chat-App)
-- [Live Demo](https://chatyouseft.herokuapp.com/)
+- [x] [Project-code](./Projects/Chat-App)
+- [x] [Live Demo](https://chatyouseft.herokuapp.com/)
 
 ---
 ## Code
