@@ -12,7 +12,7 @@
 ##  Projects
 ### Omnifood
 - [x] [Project-code](./Projects/Omnifood) <br>
-- [Live Demo](https://omnifoodaltarek.netlify.app/)
+- [x] [Live Demo](https://omnifoodaltarek.netlify.app/)
 ---
 [Course-Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)<br>
 
