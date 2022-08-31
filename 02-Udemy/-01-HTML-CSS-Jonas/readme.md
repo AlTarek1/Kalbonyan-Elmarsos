@@ -9,7 +9,7 @@
 - [x] [Section 4 – Challenge #3](./Challenges/07-Challenges/)
 
 ---
-## [x] Projects
+## - [x] Projects
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
 - [Live Demo](https://omnifoodaltarek.netlify.app/)
